@@ -17,3 +17,7 @@ ul {
     line-height: 30px;
 }
 
+p.intro {
+    width: 50%;
+    font-style: italic;
+}
